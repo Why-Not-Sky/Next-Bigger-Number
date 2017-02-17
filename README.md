@@ -1,6 +1,7 @@
 # Next-Bigger-Number
 參考 https://dotblogs.com.tw/hatelove/2017/02/08/codewars-next-bigger-number-by-tdd的題目
 使用recursive演算法，先忽略陣列及數字的轉換: 
+
 Next(in):
   R = in[0] 
   LA = in[1:]
